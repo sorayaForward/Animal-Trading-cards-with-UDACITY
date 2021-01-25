@@ -1,0 +1,10 @@
+span{font-style:italic; margin-left:2.5em;} 
+li{color:#00330F;font-weight:bold;} 
+img{border:10px solid black;margin-left: auto; margin-right: auto;width:300px;display: block;}
+#container{border:2px solid black;padding:10px;}
+#facts{list-style:none;}
+#card{border:3px solid black;}
+
+body{font-family:cursive;font-style: italic }
+.animal-info{  font-style: italic ;}
+p{margin-left:2.5em;padding:20px;}
